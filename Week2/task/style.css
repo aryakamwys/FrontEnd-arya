@@ -293,7 +293,7 @@
   color: red;
 }
 
-@media (max-widht:768px){
+@media  (max-widht:768px){
   .kontainer{
     padding: 20px;
   }
